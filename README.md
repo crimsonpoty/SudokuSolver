@@ -24,6 +24,6 @@
 >>>- Sudoku_wrap.cxx
 >>>- Sudoku_wrap.o
 		
->2)"python/main" 폴더로 이동해서 로 프로그램 실행
+>2)"python/main" 폴더로 이동해서 프로그램 실행
 >>더블 클릭 또는 "python Main.py"
 	
